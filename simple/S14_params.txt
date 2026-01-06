@@ -1,0 +1,100 @@
+M|College
+S|Secondary
+D|4 yr Degree
+U|Advanced Degree
+M|College
+S|Secondary
+D|4 yr Degree
+U|Advanced Degree
+M|College
+S|Secondary
+D|4 yr Degree
+U|Advanced Degree
+M|College
+S|Secondary
+D|4 yr Degree
+U|Advanced Degree
+M|College
+S|Secondary
+D|4 yr Degree
+U|Advanced Degree
+M|College
+S|Secondary
+D|4 yr Degree
+U|Advanced Degree
+M|College
+S|Secondary
+D|4 yr Degree
+U|Advanced Degree
+M|College
+S|Secondary
+D|4 yr Degree
+U|Advanced Degree
+M|College
+S|Secondary
+D|4 yr Degree
+U|Advanced Degree
+M|College
+S|Secondary
+D|4 yr Degree
+U|Advanced Degree
+M|College
+S|Secondary
+D|4 yr Degree
+U|Advanced Degree
+M|College
+S|Secondary
+D|4 yr Degree
+U|Advanced Degree
+M|College
+S|Secondary
+D|4 yr Degree
+U|Advanced Degree
+M|College
+S|Secondary
+D|4 yr Degree
+U|Advanced Degree
+M|College
+S|Secondary
+D|4 yr Degree
+U|Advanced Degree
+M|College
+S|Secondary
+D|4 yr Degree
+U|Advanced Degree
+M|College
+S|Secondary
+D|4 yr Degree
+U|Advanced Degree
+M|College
+S|Secondary
+D|4 yr Degree
+U|Advanced Degree
+M|College
+S|Secondary
+D|4 yr Degree
+U|Advanced Degree
+M|College
+S|Secondary
+D|4 yr Degree
+U|Advanced Degree
+M|College
+S|Secondary
+D|4 yr Degree
+U|Advanced Degree
+M|College
+S|Secondary
+D|4 yr Degree
+U|Advanced Degree
+M|College
+S|Secondary
+D|4 yr Degree
+U|Advanced Degree
+M|College
+S|Secondary
+D|4 yr Degree
+U|Advanced Degree
+M|College
+S|Secondary
+D|4 yr Degree
+U|Advanced Degree

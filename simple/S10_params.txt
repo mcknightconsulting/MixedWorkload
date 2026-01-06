@@ -1,0 +1,100 @@
+CA|Los Angeles
+TX|Dallas
+NY|Albany
+FL|Miami
+IL|Springfield
+CA|San Diego
+TX|Houston
+NY|Buffalo
+FL|Tampa
+IL|Chicago
+CA|San Francisco
+TX|Austin
+NY|New York
+FL|Orlando
+IL|Peoria
+CA|Los Angeles
+TX|Dallas
+NY|Albany
+FL|Miami
+IL|Springfield
+CA|San Diego
+TX|Houston
+NY|Buffalo
+FL|Tampa
+IL|Chicago
+CA|San Francisco
+TX|Austin
+NY|New York
+FL|Orlando
+IL|Peoria
+CA|Los Angeles
+TX|Dallas
+NY|Albany
+FL|Miami
+IL|Springfield
+CA|San Diego
+TX|Houston
+NY|Buffalo
+FL|Tampa
+IL|Chicago
+CA|San Francisco
+TX|Austin
+NY|New York
+FL|Orlando
+IL|Peoria
+CA|Los Angeles
+TX|Dallas
+NY|Albany
+FL|Miami
+IL|Springfield
+CA|San Diego
+TX|Houston
+NY|Buffalo
+FL|Tampa
+IL|Chicago
+CA|San Francisco
+TX|Austin
+NY|New York
+FL|Orlando
+IL|Peoria
+CA|Los Angeles
+TX|Dallas
+NY|Albany
+FL|Miami
+IL|Springfield
+CA|San Diego
+TX|Houston
+NY|Buffalo
+FL|Tampa
+IL|Chicago
+CA|San Francisco
+TX|Austin
+NY|New York
+FL|Orlando
+IL|Peoria
+CA|Los Angeles
+TX|Dallas
+NY|Albany
+FL|Miami
+IL|Springfield
+CA|San Diego
+TX|Houston
+NY|Buffalo
+FL|Tampa
+IL|Chicago
+CA|San Francisco
+TX|Austin
+NY|New York
+FL|Orlando
+IL|Peoria
+CA|Los Angeles
+TX|Dallas
+NY|Albany
+FL|Miami
+IL|Springfield
+CA|San Diego
+TX|Houston
+NY|Buffalo
+FL|Tampa
+IL|Chicago
